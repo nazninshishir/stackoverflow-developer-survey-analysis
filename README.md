@@ -81,4 +81,4 @@ The presentation describes a workflow based on the Stack Overflow Developer Surv
 Author
 Naznin Sharmin Shishir
 Data Analyst Capstone Project
-This repository presents an exploratory analysis project and its accompanying presentation. Please refer to the official Stack Overflow survey pages for the original survey documentation and published results.
+This repository presents an exploratory analysis project and its accompanying presentation.
